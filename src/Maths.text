@@ -25,6 +25,6 @@ public class Maths {
             addition();//static method in static area no extra step required.
             subtraction();//static method in static area no extra step required.
             maths.multiplication(40, 2);// Instance method calling through object.
-            maths.division(40, 3);// Instance method calling through object.
+            maths.division(40, 2);// Instance method calling through object.
         }
     }
